@@ -1,0 +1,4 @@
+C:\Users\li5236\OneDrive - LYSTKOM\C#\dynamisk samling\dynamisk samling'\obj\Debug\net8.0\dynamisk samling'.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\li5236\OneDrive - LYSTKOM\C#\dynamisk samling\dynamisk samling'\obj\Debug\net8.0\dynamisk samling'.AssemblyInfoInputs.cache
+C:\Users\li5236\OneDrive - LYSTKOM\C#\dynamisk samling\dynamisk samling'\obj\Debug\net8.0\dynamisk samling'.AssemblyInfo.cs
+C:\Users\li5236\OneDrive - LYSTKOM\C#\dynamisk samling\dynamisk samling'\obj\Debug\net8.0\dynamisk samling'.csproj.CoreCompileInputs.cache

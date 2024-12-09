@@ -2,3 +2,14 @@ C:\Users\li5236\OneDrive - LYSTKOM\C#\dynamisk samling\dynamisk samling'\obj\Deb
 C:\Users\li5236\OneDrive - LYSTKOM\C#\dynamisk samling\dynamisk samling'\obj\Debug\net8.0\dynamisk samling'.AssemblyInfoInputs.cache
 C:\Users\li5236\OneDrive - LYSTKOM\C#\dynamisk samling\dynamisk samling'\obj\Debug\net8.0\dynamisk samling'.AssemblyInfo.cs
 C:\Users\li5236\OneDrive - LYSTKOM\C#\dynamisk samling\dynamisk samling'\obj\Debug\net8.0\dynamisk samling'.csproj.CoreCompileInputs.cache
+C:\Users\li5236\OneDrive - LYSTKOM\C#\dynamisk samling\dynamisk samling'\bin\Debug\net8.0\dynamisk samling'.exe
+C:\Users\li5236\OneDrive - LYSTKOM\C#\dynamisk samling\dynamisk samling'\bin\Debug\net8.0\dynamisk samling'.deps.json
+C:\Users\li5236\OneDrive - LYSTKOM\C#\dynamisk samling\dynamisk samling'\bin\Debug\net8.0\dynamisk samling'.runtimeconfig.json
+C:\Users\li5236\OneDrive - LYSTKOM\C#\dynamisk samling\dynamisk samling'\bin\Debug\net8.0\dynamisk samling'.dll
+C:\Users\li5236\OneDrive - LYSTKOM\C#\dynamisk samling\dynamisk samling'\bin\Debug\net8.0\dynamisk samling'.pdb
+C:\Users\li5236\OneDrive - LYSTKOM\C#\dynamisk samling\dynamisk samling'\obj\Debug\net8.0\dynamisk samling'.sourcelink.json
+C:\Users\li5236\OneDrive - LYSTKOM\C#\dynamisk samling\dynamisk samling'\obj\Debug\net8.0\dynamisk samling'.dll
+C:\Users\li5236\OneDrive - LYSTKOM\C#\dynamisk samling\dynamisk samling'\obj\Debug\net8.0\refint\dynamisk samling'.dll
+C:\Users\li5236\OneDrive - LYSTKOM\C#\dynamisk samling\dynamisk samling'\obj\Debug\net8.0\dynamisk samling'.pdb
+C:\Users\li5236\OneDrive - LYSTKOM\C#\dynamisk samling\dynamisk samling'\obj\Debug\net8.0\dynamisk samling'.genruntimeconfig.cache
+C:\Users\li5236\OneDrive - LYSTKOM\C#\dynamisk samling\dynamisk samling'\obj\Debug\net8.0\ref\dynamisk samling'.dll

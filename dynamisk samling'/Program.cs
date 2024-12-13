@@ -32,7 +32,7 @@ public void läggtill(T b){
 if(antal == längd){
 expandera(1);
 }
-Listan[antal] = b;
+Listan[antal-1] = b;
 }
 
 public void print(){

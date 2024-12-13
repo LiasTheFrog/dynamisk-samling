@@ -43,8 +43,9 @@ Console.WriteLine(Listan[i]);
 }
     public Samling(){
 buffert = 30;
-Listan = new T[längd];
 längd = 30;
+Listan = new T[längd];
+
 antal = 0;
     }
 

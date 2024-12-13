@@ -33,7 +33,7 @@ if(antal == längd){
 expandera(1);
 }
 Console.WriteLine(antal);
-Listan[antal-1] = b;
+Listan[antal] = b;
 }
 
 public void print(){

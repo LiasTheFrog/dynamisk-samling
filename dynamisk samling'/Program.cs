@@ -32,8 +32,9 @@ public void läggtill(T b){
 if(antal == längd){
 expandera(1);
 }
-antal++;
+
 Listan[antal] = b;
+antal++;
 }
 
 public void print(){

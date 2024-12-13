@@ -32,7 +32,7 @@ public void läggtill(T b){
 if(antal == längd){
 expandera(1);
 }
-Console.WriteLine(antal);
+antal++;
 Listan[antal] = b;
 }
 

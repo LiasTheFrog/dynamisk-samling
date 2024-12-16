@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dynamisk samling\'")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f306412662f552e2597fea58c13059e8772f276d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87c88bf51aa81e2f5e58137599864f46adb1cc97")]
 [assembly: System.Reflection.AssemblyProductAttribute("dynamisk samling\'")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dynamisk samling\'")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -59,7 +59,7 @@ if(antal == 0 || k > antal && k < 0){    // fortsätt...................
 }
 Console.WriteLine("du ska ta bort.");
  T[] temp = new T[längd];
-for(int i = 0; i < antal && i !=0; i++){
+for(int i = 0; i < antal && i != k; i++){
     temp[i] = Listan[i];
 }
 Listan = temp;
@@ -88,6 +88,7 @@ MinSamling.läggtill(false);
 MinSamling.reducera();
 MinSamling.print();
 MinSamling.TaBort(0);
+MinSamling.print();
     }
 }
 

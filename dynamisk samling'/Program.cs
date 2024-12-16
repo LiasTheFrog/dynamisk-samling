@@ -94,7 +94,7 @@ MinSamling.läggtill(333);
 MinSamling.läggtill(299);
 MinSamling.reducera();
 MinSamling.print();
-MinSamling.TaBort(0);
+MinSamling.TaBort(2);
 MinSamling.print();
     }
 }

@@ -72,7 +72,7 @@ antal--;
 
 public void print(){
     for(int i = 0; i < antal; i++){
-Console.WriteLine(Listan[i]);
+Console.WriteLine($"{i}: ", Listan[i]);
 }
 }
     public Samling(){

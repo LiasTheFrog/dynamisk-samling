@@ -65,9 +65,10 @@ for(int i = 0; i < antal; i++){
         d =1;
 continue;
     }
-    temp[i-d] = Listan[i];
+    temp[i] = Listan[i+d];
 }
 Listan = temp;
+antal--;
 }
 
 public void print(){

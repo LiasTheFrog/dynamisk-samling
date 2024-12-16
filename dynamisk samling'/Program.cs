@@ -60,10 +60,9 @@ if(antal == 0 || k > antal && k < 0){    // fortsätt...................
 Console.WriteLine($"du ska ta bort index {k}");
  T[] temp = new T[längd];
  int d = 0;
-for(int i = 0; i < antal; i++){
+for(int i = 0; i < antal-1; i++){
     if(i == k){
         d =1;
-continue;
     }
     temp[i] = Listan[i+d];
 }

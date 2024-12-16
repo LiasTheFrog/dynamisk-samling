@@ -72,7 +72,7 @@ antal--;
 
 public void print(){
     for(int i = 0; i < antal; i++){
-Console.WriteLine($"{i}: ", Listan[i]);
+Console.WriteLine($"{i}: {Listan[i]}");
 }
 }
     public Samling(){
@@ -87,9 +87,11 @@ antal = 0;
 
 class Program{
     static void Main(){
-Samling<bool> MinSamling= new Samling<bool>();
-MinSamling.läggtill(true);
-MinSamling.läggtill(false);
+Samling<int> MinSamling= new Samling<int>();
+MinSamling.läggtill(150);
+MinSamling.läggtill(555);
+MinSamling.läggtill(333);
+MinSamling.läggtill(299);
 MinSamling.reducera();
 MinSamling.print();
 MinSamling.TaBort(0);

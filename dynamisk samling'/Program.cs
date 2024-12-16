@@ -57,7 +57,7 @@ public void TaBort(int k){
 if(antal == 0 || k > antal && k < 0){    // fortsätt................... 
     return;
 }
-Console.WriteLine($"du ska ta bort index {k}");
+Console.WriteLine($"tar bort index {k}");
  T[] temp = new T[längd];
  int d = 0;
 for(int i = 0; i < antal-1; i++){
